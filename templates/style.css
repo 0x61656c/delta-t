@@ -1,0 +1,12 @@
+input{
+  justify-content: right;
+}
+
+.shift-left{
+  margin-left: 20px !important;
+}
+
+.myClass label{
+    text-align:center;
+    display:block;
+}
